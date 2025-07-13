@@ -52,7 +52,7 @@ Open your browser or Postman and go to:
 
 ---
 
-##  API Endpoints & Logic
+## API Endpoints & Logic
 
 ### `/` → **GET**
 
